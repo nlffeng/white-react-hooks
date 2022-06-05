@@ -1,0 +1,17 @@
+node_modules/
+coverage/
+.travis.yml
+*.swp
+.sass-cache/
+mods/.sass-cache/
+.DS_Store
+.idea
+npm-debug.log
+npm-debug.log.*
+*.bak
+*.bak.*
+.vscode/
+lib/
+es/
+types/
+package-lock.json
