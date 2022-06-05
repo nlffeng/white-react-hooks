@@ -1,8 +1,12 @@
 {
-  "name": "implement-react-hooks",
+  "name": "white-react-hooks",
   "version": "1.0.0",
   "description": "手动实现 react-hooks 方案",
   "main": "index.js",
+  "files": [
+    "lib",
+    "es"
+  ],
   "scripts": {
     "build:lib": "tsc --outDir lib --module commonjs && npm run copy:lib",
     "build:es": "tsc --outDir es && npm run copy:es",
