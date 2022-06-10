@@ -2,7 +2,9 @@
   "name": "white-react-hooks",
   "version": "1.0.0",
   "description": "手动实现 react-hooks 方案",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "types": "lib/types.d.ts",
   "files": [
     "lib",
     "es"
